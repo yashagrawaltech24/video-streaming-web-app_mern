@@ -23,5 +23,6 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false
-  }
+  },
+  "include": ["api/**/*.ts", "src/**/*.ts", "tests/**/*.ts", "dev.ts"]
 }
